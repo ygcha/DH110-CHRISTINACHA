@@ -26,9 +26,9 @@ Access to higher education has always been a topic of conversation amongst high 
 ### [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) by Nielsen Norman Group
 |Rating|Description|
 |---|---|
-|1|Cosmetic problem only: need not be fixed unless extra time is available on project|
-|2|Minor usability problem: fixing this should be given low priority|
-|3|Major usability problem: important to fix, so should be given high priority|
+|1|Cosmetic problem only: does not need to be fixed unless there is extra time to complete the project|
+|2|Minor usability problem: the issue is not as important to fix, therefore it is low priority|
+|3|Major usability problem: the issue is urgent to fix, therefore it is high priority|
 
 ##### _CHART STYLE CREDIT: Emily Dong from Spring 2021_
 
