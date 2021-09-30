@@ -40,3 +40,93 @@ I will be examining MEFA’s website through the lens of a high school/college s
 
 ![MEFA FRONT PAGE Website Screenshot](MEFA1.png)
 https://www.mefa.org/
+
+### Heuristic Evaluation
+#### **Overall Evaluation:**
+
+MEFA’s website is overall tailored for both students and parents. The simplistic consistent design and layout allows most people regardless of age to navigate through the website based on their needs without having to dig through the entire website. When searching for basic information like how to get a loan or how to apply for financial aid, the website makes it easy to navigate. However, if a user wanted to search something specific through the search bar, they would have a hard time as the search bar provides no suggestion or guidance in the case the user makes an error.
+
+#### **1. Visibility of System Status**
+
+For all of their search bars, there is no automatic search suggestion in relation to what you are typing. Usually, search bars would show some suggestions after a couple letters. However, for MEFA, the suggestions do not show up no matter how many letters you input. The absence of this feature drops the efficiency of the search by a lot, especially for someone who is visiting the website for the very first time. 
+
+_Severity Rating: 2_
+
+![MEFA SEARCH BAR Website Screenshot](MEFA2.png)
+
+> **Solution:** I would suggest having the automatic article suggestions pop up filtered by “most searched” from the moment the student types the first letter. This allows the student to quickly understand what type of resources and articles MEFA provides in relation to the words they are typing. 
+
+#### **2. Match Between System and the Real World**
+
+The “Plan for College by Age” section reflects how the rest of MEFA’s website utilizes icons. For the most part, they accurately match the icon to the actual service/object (e.g. graduation cap for college or graduate school, or parent holding child’s hand for grade school). But throughout the website, including the screenshot below, the icons for specific sections are less intuitive and sometimes hard to match to the real world example. 
+
+_Severity Rating: 1_
+
+![MEFA BY AGE Website Screenshot](MEFA3.png)
+
+> **Solution:** I would suggest using actual numbers to represent the different grades in school (e.g. K-5th for elementary, 6-8th for middle school) rather than using unrelated and/or general icons like the globe and chemistry icon for middle and high school respectively. 
+
+#### **3. User Control and Freedom**
+
+One good element of the search bar is that after you type a word and click “Search”, the phrase or word typed stays in the search bar. This improves efficiency as it allows the user to go back, edit spelling mistakes, or change a part of the phrase. This is helpful since the users are prone to more mistakes with no automatic search suggestions embedded into the search bar. In addition to the search bar, MEFA’s website overall makes it easy to navigate through various pages by either going to the previous page with one click, or going to a completely different section of the website through the tabs at the top of their website.
+
+_Severity Rating: Satisfactory_
+
+![MEFA SEARCH BAR2 Website Screenshot](MEFA4.png)
+
+#### **4. Consistency and Standards**
+
+The overall wording, tone, and design of MEFA’s website is consistent throughout various pages. However, the way they organize their tabs is slightly confusing especially for “Make a Plan” and “Start to Save”. This is due to the fact that when you hover over “Start to Save” and look at the dropdown menu, a lot of the sub-tabs are titled “...Plan” at the end, whereas “Make a Plan” has a dropdown menu with sub-tabs related to the different stages a student is in.
+
+_Severity Rating: 1_
+
+![MEFA TABS Website Screenshot](MEFA6.png)
+![MEFA TABS2 Website Screenshot](MEFA7.png)
+
+> **Solution:** I would suggest switching the main tab title names to better align with the subcategories in the dropdown menu. This allows students and other users to navigate and process the categories faster. 
+
+#### **5. Error Prevention**
+
+MEFA’s websites, especially their online calculators, do a great job in preventing errors as it provides clear error signals (e.g. red box around missing sections of the calculator, or pop-up messages that notifies the user to double check their information).
+
+_Severity Rating: Satisfactory_
+
+![MEFA CALCULATOR Website Screenshot](MEFA5.png)
+![MEFA CALCULATOR2 Website Screenshot](MEFA8.png)
+
+#### **6. Recognition Rather Than Recall**
+Overall, MEFA does a good job of making the actions and options easily visible to the user. For example, the tabs at the top are split into four clear sections: Make a Plan, Start to Save, Pay for College, and MEFA Loans. This makes it easy for the student or user to navigate through the website based on their needs.
+
+_Severity Rating: Satisfactory_
+
+![MEFA TABS3 Website Screenshot](MEFA9.png)
+
+#### **7. Flexibility and Efficiency of Use**
+Due to the simplicity of website design, most of the features and functionality of MEFA’s website is easy and flexible to use for any type of user, especially for students who can be more tech-savvy and familiar with using websites like these. In addition, the tabs and clear sections within the websites makes it easy to use without having to struggle to search for what they need.
+
+_Severity Rating: Satisfactory_ 
+
+#### **8. Aesthetic and Minimalist Design**
+MEFA’s website has a good color palette that is pleasing to the eye with minimal website layout. However, there is one part of the website that glaringly stuck out which is the thin tab sections above the main four tab categories. The sections like “Blog”, “For Counselors” and “Events” seem unnecessary for the main type of users which are students and families. This section distracts the user from the main focus, which is finding ways to plan and finance their education.
+
+_Severity Rating: 2_
+
+![MEFA TABS ON TOP Website Screenshot](MEFA10.png)
+
+> **Solution:** I would suggest placing that section towards the end of the website where all the other detailed information is located. Another option is having a fifth tab next to the four main tabs where it compiles all the different sections into a dropdown. 
+
+#### **9. Help Users Recognize, Diagnose, and Recover From Errors**
+As mentioned previously, MEFA’s online calculators have clear indicators that tell the user what the issue is (e.g. a red outline on the sections that the user did not fill out). However, there is one part of the website where it leads the user to a dead end: the search bar. When I searched something that produced zero search results in the search bar, all the website did was display a text that said “0 search results found for searched word”. This would either make the user spend more time in finding the right words to find some information, or force them to quit searching. 
+
+_Severity Rating: 2_
+
+![MEFA 0 SEARCH Website Screenshot](MEFA11.png)
+
+> **Solution:** I would suggest adding a “Did you mean…” where they suggest different search terms and phrases in the case the user misspells a word. Another suggestion is to add similar or related articles below in order to give the user some guidance. 
+
+#### **10. Help and Documentation**
+With a complicated topic and process like financial aid, MEFA overall does a good job in guiding the users on where to click for specific requests like loans or planning. For example, in the front page, MEFA provides direct links to four key sections based on the different types of needs. In this case, they put a guide for Guidance, Planning Tools, Savings Products, and Loan Products.
+
+_Severity Rating: Satisfactory_  
+
+![MEFA FRONT GUDIANCE Website Screenshot](MEFA12.png)
