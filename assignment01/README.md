@@ -132,3 +132,95 @@ With a complicated topic and process like financial aid, MEFA overall does a goo
 _Severity Rating: Satisfactory_  
 
 ![MEFA FRONT GUDIANCE Website Screenshot](MEFA12.png)
+
+---
+
+## Website 2: [Massachusetts Department of Higher Education's Office of Student Financial Assistance ](https://www.mass.edu/osfa/home/home.asp)
+### About the Website
+Massachusetts Department of Higher Education (DHE) is responsible for providing students in Massachusetts the proper resources and opportunities to ensure that diverse students get into higher education in order to not only improve their lives, but also to develop Massachusetts as a state through the students’ future contributions. I will be focusing on the Office of Student Financial Assistance (OSFA), a division under DHE that focuses on providing guidance, tools, and resources to help students obtain financial aid and support. Just like their name, OSFA offers aid through various types of financial support including grants, scholarships, loans, tuition waivers, and so on. 
+
+Similarly to MEFA, I will be examining OSFA’s website through the lens of a high school/college student who is researching and learning about how to get financial aid. Information organization and easy navigation will be a crucial part for this specific perspective as it can affect the student’s ability to pay for college.  
+
+![OSFA Website Screenshot](2.png)
+https://www.mass.edu/osfa/home/home.asp
+
+### Heuristic Evaluation
+#### **Overall Evaluation:**
+OSFA’s website's simple, straightforward design works for various types of people, especially students. However, there are key elements throughout the website that can use improvements including the utilization of white space and space in general and the search bar suggestion feature. 
+
+Heuristic Evaluation
+#### **1. Visibility of System Status**
+Just like MEFA, there is no automatic search suggestion in relation to what you are typing in OSFA’s search bar. Instead of having a drop down menu with article suggestions, they depend on the user writing their full phrase out making it less efficient. 
+
+_Severity Rating: 2_
+
+![Search Bar OSFA Website Screenshot](3.png)
+
+> **Solution:** I would suggest having the automatic article suggestions show up based on the most clicked or most searched allowing users to find the information that they need quickly and efficiently. 
+
+#### **2. Match Between System and the Real World**
+OSFA’s style of language and tone reflects the clear direct language that is easily understood by students. However, the website mostly focuses on having text to represent their information and lacks a lot of icons and visual signals which can decrease the efficiency amongst users especially when trying to navigate through a lot of resources. 
+
+_Severity Rating: 2_
+
+> **Solution:** I would suggest including clear sections within the website with corresponding icons in order to guide users where to look for specific types of information. It would be best to put the icons in the front page as that is the first part of the website the user sees. 
+
+#### **3. User Control and Freedom**
+Users are able to navigate through the website without having to actively search for an “emergency exit”. However, when you press search after typing in the search bar, the website deletes the word/phrase you typed making it hard for users to undo any mistake they might have made when typing (e.g. spelling error, grammar mistake, etc.) This can decrease the efficiency as it forces users to spend more time retyping or editing their phrase instead of having an emergency exit solution.
+
+_Severity Rating: 2_
+
+![Control Website Screenshot](5.png)
+
+> **Solution:** I would suggest implementing a feature where the text the user searched previously stays in the search box or providing a “Did you mean…” section where they automatically provide suggestions based on what the user wrote. This would allow the user to save time and find the resources and information quicker. 
+
+#### **4. Consistency and Standards**
+OSFA keeps a consistent style of design and language throughout the website. The color palette and font hierarchy stays the same on almost every page providing a cohesive look and feel. This makes it easy for users to recognize the website and its purpose when visiting it again. 
+
+_Severity Rating: Satisfactory_
+
+#### **5. Error Prevention**
+The website has little instances where errors can occur. However, a good example of error prevention is the “Info & Tools for Schools” section where users can click the “+” to open up the various categories for more information or click “x” after to close it. This is especially helpful for users when they did not mean to click open a certain category. 
+
+_Severity Rating: Satisfactory_ 
+
+![Error Website Screenshot](7.png)
+
+#### **6. Recognition Rather Than Recall**
+The website lacks icons and the explanation of certain acronyms making it difficult for users to recognize certain cues until they click the category where it goes into more detail. For example, one of the tabs at the upper right side is titled PCIPP. If a user has never visited the website, they would have a hard time deciphering what the acronym stands for. In addition, at the bottom of the screen in the footer, another acronym SARA can be seen.
+
+_Severity Rating: 2_
+
+![9 Website Screenshot](8.png)
+![9 Website Screenshot](9.png)
+
+> **Solution:** Write out the acronym for users to quickly process what certain sections and tabs of the website are meant for without having to click through. 
+
+#### **7. Flexibility and Efficiency of Use**
+Because the website is straightforward with six tabs and dropdown menus, any type of user, especially students and parents, can navigate through easily. In addition, the sections are organized in a way where the user does not have to click through 2 to 3 different tabs and links in order to reach a certain page. They just simply need to click on the dropdown menu in the tabs. 
+
+_Severity Rating: Satisfactory_ 
+
+![Dropdown Website Screenshot](10.png)
+
+#### 8. Aesthetic and Minimalist Design
+The website has a consistent aesthetic and color scheme while staying simple in terms of the user journey. However, in the home page, there is a notable imbalance between the large photo and the white space below it. In addition, there is a large amount of text on the side which can be overwhelming for some users.
+
+_Severity Rating: 1_ 
+
+![Gap Website Screenshot](11.png)
+
+> **Solution:** I would suggest utilizing the bottom white space to create visual sections and cues to replace the text based sections on the side. 
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+As mentioned previously, OSFA’s search bar lacks the automatic search suggestion which prevents users from quickly recognizing and diagnosing their mistakes. 
+
+_Severity Rating: 2_
+
+> **Solution:** I would suggest including either a “Did you mean…” section to help users recover from errors fast or automatic search suggestion in order to prevent users from making a mistake in the first place. 
+
+#### 10. Help and Documentation
+Almost each section on OSFA’s website includes some form of guidance and documentation through PDFs. This ensures that the users will have enough information to breakdown and understand the different options the user has for financial aid and support. 
+
+_Severity Rating: Satisfactory_ 
+
