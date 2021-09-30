@@ -12,16 +12,16 @@ Access to higher education has always been a topic of conversation amongst high 
 ### Jakob Nielsen's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
 |Number|Heuristic|Definition|
 |---|---|---|
-|1|**Visibility of System Status**|The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.|
-|2|**Match Between System and the Real World**|The design should be understandable for its users. It should use words, phrases, and concepts familiar to the user, rather than internal jargon. It should follow real-world conventions and present information in a natural and logical order.|
-|3|**User Control and Freedom**| In the case that a user performs an action by mistake, the design should provide a clearly-marked "emergency exit" to quickly abandon the unwanted action. |
-|4|**Consistency and Standards**| Words and phrases should have consistent meanings across the entire design, following platform and industry conventions where possible. |
-|5|**Error Prevention**| The design should carefully prevent problems from occurring, whether through eliminating conditions that lead to errors or making users confirm their choice before completing an action. |
-|6|**Recognition Rather than Recall**| The design should minimize the user's cognitive load by making elements, actions, and options easily visible. The design should be such that users do not have to remember information from other parts of the interface in order to use it. This required information should be visible or easy to locate on the design. |
-|7|**Flexibility and Efficiency of Use**| The design should include shortcuts usable for expert users, so that it is equally usable for users of all experience levels. It should also allow users to tailor frequent actions. |
-|8|**Aesthetic and Minimalist Design**| The interface should only contain information that is relevant or needed often, as every additional piece of information competes with others for user attention and diminishes others' relative visibility. |
-|9|**Help Users Recognize, Diagnose, and Recover from Errors**| Error messages should be easily understandable, precisely indicate the problem, and constructively suggest a solution. |
-|10|**Help and Documentation**| If needed, the design must include documentation to guide users in completing certain tasks.
+|1|**Visibility of System Status**|The design should inform the users about the current status of the system through the right feedback within a certain time frame.|
+|2|**Match Between System and the Real World**| The design should reflect the users' way of language including the way they use words and phrases without unnecessary jargon.|
+|3|**User Control and Freedom**| There should be a clear "emergency exit" in order to revert actions users made by mistake. |
+|4|**Consistency and Standards**| There should be a consistent theme in the type of words, style, and actions used to enhance learnability. |
+|5|**Error Prevention**| There should be error messages in place to prevent users from making mistakes and to make them double check for errors. |
+|6|**Recognition Rather than Recall**| There should be clear simple visual cues that helps users quickly recognize information rather than having them to remember or memorize it. |
+|7|**Flexibility and Efficiency of Use**| In order to increase user efficiency, shortcuts should be implemented to allow both experienced and inexperienced users to navigate easily. |
+|8|**Aesthetic and Minimalist Design**| The interface should include relevant and neccessary information. This is to prevent information that is not important from distracting the user. |
+|9|**Help Users Recognize, Diagnose, and Recover from Errors**| Mistakes should be expressed in simple words and language that tells users clearly what is wrong and how to fix it. |
+|10|**Help and Documentation**| When neccessary, users should be provided a guide on how to navigate through certain tasks. 
 
 ### [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) by Nielsen Norman Group
 |Rating|Description|
