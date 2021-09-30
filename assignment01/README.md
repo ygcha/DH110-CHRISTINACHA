@@ -33,6 +33,10 @@ Access to higher education has always been a topic of conversation amongst high 
 ---
 
 ## Website 1: [Massachusetts Educational Financing Authority](https://www.mefa.org/)
+### About
+Massachusetts Educational Financing Authority (MEFA) was established by the Massachusetts state legislature in 1982 with the goal of helping students afford higher education through various financial programs. MEFA also provides families guidance on preparing for college starting from kindergarten through college. 
+
+I will be examining MEFA’s website through the lens of a high school/college student who is researching and learning about how to get financial aid. Information organization and easy navigation will be a crucial part for this specific perspective as it can affect the student’s ability to pay for college.  
 
 ![Massachusetts Government Website Screenshot](MassGovWebsite.png)
 https://www.mass.gov/
