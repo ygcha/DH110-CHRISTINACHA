@@ -30,6 +30,8 @@ Access to higher education has always been a topic of conversation amongst high 
 |2|Minor usability problem: fixing this should be given low priority|
 |3|Major usability problem: important to fix, so should be given high priority|
 
+##### _CHART STYLE CREDIT: Emily Dong from Spring 2021_
+
 ---
 
 ## Website 1: [Massachusetts Educational Financing Authority](https://www.mefa.org/)
