@@ -18,8 +18,24 @@ Another key issue with the search bar is that instead of keeping the user at the
 I will be conducting and performing a usability test where I will ask the participant to complete three tasks. 
 TASK | DESCRIPTION  
 |---|---|
-|Task 1| Use OSFA’s search bar to search more articles about loans.|
-|Task 2| Find more information about the “Need-Based Tuition Waiver Program” using the tabs on the home page.| 
-|Task 3| Use OSFA’s search bar to search “Financial Aid” and then navigate back to the home page.| 
+|Visibility of System Status| Use OSFA’s search bar to search more articles about loans.|
+|Flexibility and Efficiency of Use| Find more information about the “Need-Based Tuition Waiver Program” using the tabs on the home page.| 
+|Error Prevention| Use OSFA’s search bar to search “Financial Aid” and then navigate back to the home page.| 
 
+---
 ## Methodology
+I will conduct the usability test in a quiet room using Zoom where I can record the pilot test using my MacBook Pro. I will be talking to the participant through a Zoom meeting where they will share their screen. I will provide background information about the test and ask for their informed consent before continuing with the survey. They will first complete the pre-test question to record their initial impression of the website. Then I will have them complete three different tasks to see how the level of comfort and satisfaction the user experiences through the website. The user will then give feedback by answering the post-test questions to record their overall experience with completing the three tasks. Finally, the user will then fill out a section with demographic questions which will be kept confidential and anonymous. 
+
+This usability test is intended as a pilot test.
+
+---
+## Link to the UT Survey
+
+
+---
+## Link to UT Video
+
+
+---
+## Reflection
+
