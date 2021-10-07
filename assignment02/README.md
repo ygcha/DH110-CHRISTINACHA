@@ -38,4 +38,9 @@ https://drive.google.com/file/d/1VtsRA5nSjPXYjydmVYodVBTm-z7Ladyj/view?usp=shari
 
 ---
 ## Reflection
+Overall, the usability test went smoothly. In terms of our performance, I noticed that my tone of voice was more stiff and formal which could have caused the user to be not as comfortable as he wanted to be. In addition, I felt that I could have given clearer directions for the tasks as the user attempted to just do the google form survey rather than using the actual website.  
+
+As for the usability test itself, there were many times where I had to make sure not to intervene the user as they went through the tasks as someone who is more used to the website. However, the user seemed to navigate through the tasks quicker than I had anticipated despite going having a slightly hard time finding the page for the second task. One aspect where I wish I did better in was engaging the user more to understand his thought process and opinions. 
+
+Conducting a usability test for the first time gave me a clearer understanding of how I should approach my next usability tests and focus groups. For example, having better ice breaker conversations in the beginning would make the user more comfortable, allowing them to give more detailed feedback and thoughts later in the test. 
 
