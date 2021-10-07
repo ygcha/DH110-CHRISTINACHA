@@ -36,6 +36,8 @@ https://forms.gle/jVAzn3BYPRiBZqB78
 ## Link to UT Video
 https://drive.google.com/file/d/1VtsRA5nSjPXYjydmVYodVBTm-z7Ladyj/view?usp=sharing
 
+_*The participant preferred to have his camera off._
+
 ---
 ## Reflection
 Overall, the usability test went smoothly. In terms of our performance, I noticed that my tone of voice was more stiff and formal which could have caused the user to be not as comfortable as he wanted to be. In addition, I felt that I could have given clearer directions for the tasks as the user attempted to just do the google form survey rather than using the actual website.  
