@@ -27,3 +27,9 @@ The users would look for financial resources and assistance before the start of 
 
 ### What do/did the users usually do in order to complete that activity? 
 Users, specifically parents, usually read the printed materials given to them by the school and their children or go online to look for more information. Student users on the other hand usually go online to find more resources and information. 
+
+## ✅ Step03: Pick an qualitative research method (or a combination/adaptation of methods) 
+I completed the contextual inquiry through two methods: observing the participant and conducting an interview. For the participatory observation, I asked the participant to complete two activities. In the first task, I asked the participant to look up a website that they most commonly used in the past and are the most comfortable with to find more information on financial aid. In the second task, I asked the participant to use the website to find more information about the specific type of financial aid they needed more information on.
+
+Both activities were conducted in the user’s apartment. I used my Samsung Note to voice record the interview and used an iPad to capture photos of the user completing the activities. Unfortunately, I had to use the same participant for this usability test as I could not find another in-person participant that was fit for the interview.
+
