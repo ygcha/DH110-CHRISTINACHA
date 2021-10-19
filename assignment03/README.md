@@ -40,13 +40,25 @@ Please find the link to the interview script [here](https://docs.google.com/docu
 Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1fe3nKcmFRfPaE8TfMj3q5HWx79ta8DadLJhHX05vfpk/edit?usp=sharing).
 
 Please find the recordings and video of the interview and participatory observation below:
-[Voice Recording](https://drive.google.com/file/d/1lAsiiNPMLrHvUfCh_nNR7DJlkhXAuzH6/view?usp=sharing)
-[Video/Participatory Observation](https://drive.google.com/file/d/10XdLj3D6XsEu4_yKhyq5epgCIAsldbjo/view?usp=sharing)
+
+● [Voice Recording](https://drive.google.com/file/d/1lAsiiNPMLrHvUfCh_nNR7DJlkhXAuzH6/view?usp=sharing)
+
+● [Video/Participatory Observation](https://drive.google.com/file/d/10XdLj3D6XsEu4_yKhyq5epgCIAsldbjo/view?usp=sharing)
+
 
 
 Below are key points that I found interesting during the interview:
-sdofihsdofh
+
+1️⃣ The biggest challenge with finding more information is knowing what websites to use.
+
+2️⃣ Compared to Massachusetts OSFA, the user preferred the cleanliness and organization of FAFSA's website. 
+
+3️⃣ The user did not like the white space and the way the tabs were organized for the Massachusetts OSFA website. 
 
 ## ✅ Step 6: Reflection
+Before the interview, I had a general idea of the problem areas of the website that needed to be fixed and redesigned. However, this contextual inquiry gave me a closer look at which websites I should reference when redesigning the website.
 
+The participant that I interviewed has previous experience with applying for financial aid so he had a clear vision of what he needed to look for and what type of information he needs. An interesting website he mentions is the my.ucla.edu website from UCLA. Because I mostly focused on other government websites, I did not think to reference other non-government affiliated websites in terms of how they organize their information and tabs. Another interesting part of the interview was that he mentioned how he liked the way FAFSA was organized. I agreed with how the simplicity of the website allowed the user to find information quicker and easier compared to the Massachusetts OSFA website. 
+
+A challenge that I faced was writing the script for the Contextual Inquiry. As my project was based on a government website and the ease of finding information on financial aid, it was difficult to come up with questions that were general and overarching but making sure that it still was relevant and focused. During the actual interview, I noticed that I ended up asking the same questions for some of the sections due to the fact that the user already answered the specific question in the previous question. Next time, I would try to skip questions that have already been addressed and ask the user more about the specific actions and steps they were taking when completing the activities. 
 
