@@ -34,19 +34,19 @@ I completed the contextual inquiry through two methods: observing the participan
 Both activities were conducted in the user’s apartment. I used my Samsung Note to voice record the interview and used an iPad to capture photos of the user completing the activities. Unfortunately, I had to use the same participant for this usability test as I could not find another in-person participant that was fit for the interview.
 
 ## ✅ Step 4: Observation/Interview Guide
-Please find the link to the interview script [here](https://docs.google.com/document/d/1-nBmNQBYU-Cvq0w8csEWP-jW9J4PuwGWr2mscrk-m8g/edit?usp=sharing)
+Please find the link to the interview script [here](https://docs.google.com/document/d/1-nBmNQBYU-Cvq0w8csEWP-jW9J4PuwGWr2mscrk-m8g/edit?usp=sharing).
 
 ## ✅ Step 5: Conducting the Research
-Please find the transcription of the whole interview and participatory observation here
+Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1fe3nKcmFRfPaE8TfMj3q5HWx79ta8DadLJhHX05vfpk/edit?usp=sharing).
 
-Below are the recordings and photos of the interview and participatory observation.
+Please find the recordings and video of the interview and participatory observation below:
+[Voice Recording](https://drive.google.com/file/d/1lAsiiNPMLrHvUfCh_nNR7DJlkhXAuzH6/view?usp=sharing)
+[Video/Participatory Observation](https://drive.google.com/file/d/10XdLj3D6XsEu4_yKhyq5epgCIAsldbjo/view?usp=sharing)
 
-Contexual Interview: Background
-Participatory Observations: Financial Aid Search
-Contextual Intervew: Other Questions & Closing
 
 Below are key points that I found interesting during the interview:
 sdofihsdofh
 
 ## ✅ Step 6: Reflection
+
 
