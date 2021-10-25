@@ -10,3 +10,15 @@
 
 ---
 ## 👤 Personas & Empathy Map
+### **Persona 1: Diane Kim**
+<p align="center">
+  <img src="./Diane Kim.png">
+</p>
+
+### **Persona 2: Sandy Smith**
+<p align="center">
+  <img src="./Sandy Smith.png">
+</p>
+
+---
+## 🗺 User Scenarios and Journey Maps
