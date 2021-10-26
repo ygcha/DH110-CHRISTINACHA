@@ -2,7 +2,7 @@
 
 ---
 ## 📖 The Purpose of UX Storytelling
-- The main purpose of UX storytelling is to see your product in another perspective, specifically the user's perspective. This is so that we have a better understanding of the user's journey and needs to help you design a better product that is catered for the user.
+- The main purpose of UX storytelling is to see your product in another perspective, specifically the user's perspective. By finding more pain points, the more we know what parts of the product needs improvement and fixing. This is so that we have a better understanding of the user's journey and needs to help you design a better product that is catered for the user. 
 
 ## 🖌️ Design Feature Proposals
 - Auto suggestion dropdown in search bar
