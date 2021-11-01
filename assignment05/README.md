@@ -9,8 +9,8 @@ For this assignment, I will be creating a low-fidelity prototype as it is an eff
 ### User Research
 Based on my research, I will focus on these three research questions:
 
-> How might we improve the search system so it is more catered towards each individual and student’s financial situation?
-> How might we organize the pages and tabs so users can accomplish tasks faster and more efficiently? 
+- How might we improve the search system so it is more catered towards each individual and student’s financial situation?
+- How might we organize the pages and tabs so users can accomplish tasks faster and more efficiently? 
 
 Here is more information on the [user research](https://github.com/ygcha/DH110-CHRISTINACHA/tree/main/assignment03).
 
