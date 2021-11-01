@@ -24,6 +24,6 @@ I created two personas: one based on my previous user research and one based on 
 Here is more information on the [personas and scenarios](https://github.com/ygcha/DH110-CHRISTINACHA/tree/main/assignment04).
 
 ### _Tasks/Features_
-Directly filter out financial aid options (scholarships, grants, loans, etc) based on type of need, due date, and other factors.
-Create a financial aid profile.
-Add financial aid options (scholarships, grants, loans, etc) to your account to keep track of which ones to apply too. 
+- Directly filter out financial aid options (scholarships, grants, loans, etc) based on type of need, due date, and other factors.
+- Create a financial aid profile.
+- Add financial aid options (scholarships, grants, loans, etc) to your account to keep track of which ones to apply too. 
