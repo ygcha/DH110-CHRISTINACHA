@@ -21,4 +21,4 @@ I created two personas: one based on my previous user research and one based on 
 
 > Sandy Smith: A 50-year-old homestay mom of two sons with low technical literacy and wants to find what type of financial aid and loans her son can apply to without a hassle. 
 
-Here is more information on the p[ersonas and scenarios](https://github.com/ygcha/DH110-CHRISTINACHA/tree/main/assignment04).
+Here is more information on the [personas and scenarios](https://github.com/ygcha/DH110-CHRISTINACHA/tree/main/assignment04).
