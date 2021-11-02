@@ -9,8 +9,8 @@ For this assignment, I will be creating a low-fidelity prototype as it is an eff
 ### _User Research_
 Based on my research, I will focus on these three research questions:
 
-- How might we improve the search system so it is more catered towards each individual and student’s financial situation?
-- How might we organize the pages and tabs so users can accomplish tasks faster and more efficiently? 
+- How might we improve the financial aid search system so it is more catered towards each individual and student’s financial situation?
+- How might we organize the pages, filters, and tabs so users can accomplish tasks faster and more efficiently? 
 
 ### _Personas and Scenarios_
 I created two personas: one based on my previous user research and one based on my own perceptions from the research. Below are the personas and scenarios. 
