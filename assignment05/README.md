@@ -43,10 +43,13 @@ I created two personas: one based on my previous user research and one based on 
 I conducted the user testing in-person. I utilized Procreate on my iPad to conduct the study so that the user can "click" the buttons as he completed the task. He refused to be recorded so I took notes directly instead. 
 
 ### Task 1
+> Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
 ![Task_1](Frame6.png)
 
 
 ### Task 2
+> Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. 
+(Begins with clicking sign up on home page)
 ![Task_2](Frame8.png)
 
 ---
