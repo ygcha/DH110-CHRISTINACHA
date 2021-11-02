@@ -46,7 +46,7 @@ I conducted the user testing in-person. I utilized Procreate on my iPad to condu
 ### Task 1: Successful
 > Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
 
-![Task_1](Frame6.png)
+![Task_1](task1final.png)
 
 
 
@@ -54,7 +54,7 @@ I conducted the user testing in-person. I utilized Procreate on my iPad to condu
 > Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. 
 (Begins with clicking sign up on home page)
 
-![Task_2](Frame8.png)
+![Task_2](task2final.png)
 
 
 ---
