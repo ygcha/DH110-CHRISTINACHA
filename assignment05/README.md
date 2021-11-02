@@ -40,7 +40,14 @@ I created two personas: one based on my previous user research and one based on 
 
 ---
 ## Low-Fidelity Prototype Testing
+I conducted the user testing in-person. I utilized Procreate on my iPad to conduct the study so that the user can "click" the buttons as he completed the task. He refused to be recorded so I took notes directly instead. 
 
+Task 1
+![Task1](Frame 6.png)
+
+
+Task 2
+![Task2](Frame 7.png)
 ---
 ## Reflection
 
