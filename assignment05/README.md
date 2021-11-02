@@ -33,10 +33,10 @@ I created two personas: one based on my previous user research and one based on 
 (Begins with clicking sign up on home page)
 
 ### _Wireframes_
-![Lofi Prototype 1](wireframepng.png)
+![Lofi Prototype 1](wireframe7.png)
 
 ### _Wireflow_
-![Lofi Prototype 2](wireflow4.png)
+![Lofi Prototype 2](wireflow5.png)
 
 ---
 ## Low-Fidelity Prototype Testing
