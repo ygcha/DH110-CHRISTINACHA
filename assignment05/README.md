@@ -41,7 +41,7 @@ I created two personas: one based on my previous user research and one based on 
 ---
 ## Low-Fidelity Prototype Testing
 I conducted the user testing in-person. I utilized Procreate on my iPad to conduct the study so that the user can "click" the buttons as he completed the task. He refused to be recorded so I took notes directly instead. 
-![Test](IMG_76B280FABE5B-1.jpeg)
+![Test](Frame9.png)
 
 ### Task 1: Successful
 > Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
