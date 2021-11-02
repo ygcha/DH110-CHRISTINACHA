@@ -27,9 +27,9 @@ I created two personas: one based on my previous user research and one based on 
 
 ---
 ## Low-Fidelity Prototypes
-> Task 1: Filter out scholarship and grants based on award amount and add to your list (Begins with clicking tab on home page)
+> Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
 
-> Task 2: Create profile and add financial aid options to a list on your account to keep track. 
+> Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. 
 (Begins with clicking sign up on home page)
 
 ### _Wireframes_
