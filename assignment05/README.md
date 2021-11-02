@@ -42,21 +42,25 @@ I created two personas: one based on my previous user research and one based on 
 ## Low-Fidelity Prototype Testing
 I conducted the user testing in-person. I utilized Procreate on my iPad to conduct the study so that the user can "click" the buttons as he completed the task. He refused to be recorded so I took notes directly instead. 
 
-### Task 1
-#### Successful
+### Task 1: Successful
 > Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
 ![Task_1](Frame6.png)
 
 
 
-### Task 2
-#### Successful
+### Task 2: Successful
 > Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. 
 (Begins with clicking sign up on home page)
 ![Task_2](Frame8.png)
 
-#### Task 1: Successful
 
 ---
 ## Reflection
+Overall, the test for both tasks were done successfully by the user without much issue. However, during the test, the user experienced slight confusion and provided interesting insights that I have not thought of prior to the test. 
+
+For Task 1, the user first clicked “Financial Aid” tab to find the “Scholarships” page. He felt that this step was intuitive. In the “Scholarships” page, he went to the “Filter List By” section and clicked the check mark next to “Highest” under the “Award Amount” section instead of clicking the “Award Amount” first. This made me realize that getting rid of the checkbox next to “Award Amount” reduced the amount of steps to get the same outcome. This was a design change that I will implement in my revision of the product. After he added the scholarships to his list by clicking “Add to My List”, he tried to look for a buttom/link that immediately directed him to his “Financial Aid List” rather than clicking “My Profile” first and then “Financial Aid List”. This made me realize that it was more efficient to have a button and reduce the process by one step. 
+
+For Task 2, the first couple steps were completed with no issue. However, by the time he got to the “My Profile” page, he was confused as to why there was a “Type of Aid” section below the profile. After completing the previous task, he did not understand how that section would organized the information. This made me realize that the “Type of Aid” section could be removed as it was unnecessary and served no real purpose. Last but not least, when completed the final step of sharing the financial aid list to another user, he stated that it was difficult to find as it was small especially when comparing the proportion it took up in the website. To fix this issue, I will most likely move it to a different section so it is not hidden/burried by the filter section above it. 
+
+This user test pointed out both small and big details that I did not notice prior to the test. The user feedback highlighted the importance of testing each stage of the project to ensure that I am getting another perspective to further improve my product. 
 
