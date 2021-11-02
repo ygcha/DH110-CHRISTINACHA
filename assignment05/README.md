@@ -36,7 +36,7 @@ I created two personas: one based on my previous user research and one based on 
 ![Lofi Prototype 1](wireframepng.png)
 
 ### _Wireflow_
-![Lofi Prototype 1](wireframepng.png)
+![Lofi Prototype 1](wireflow.png)
 
 ---
 ## Low-Fidelity Prototype Testing
