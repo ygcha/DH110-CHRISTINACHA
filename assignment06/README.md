@@ -13,7 +13,7 @@ After trying various fonts, shapes, and colors, the wireframe below is an exampl
 
 ![ExampleWireframe](wireframeex.png)
 
-**Here is the link to the Figma pages: **
+**Here is the link to the Figma pages:**
 - [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=0%3A1) to screen designs.
 - [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=26%3A1646) to digitized wireflow w/ the designs implemeneted to the rest of my wireframes. 
 - [LINK](https://www.figma.com/proto/x0t5CUcYqjtNwrYgzNVRU7/Assignment06?page-id=0%3A1&node-id=24%3A1524&viewport=241%2C48%2C0.26&scaling=min-zoom) to the prototype with the designs. 
@@ -54,3 +54,5 @@ Out of the two light mode color schemes, I went with the first one as it gave th
 Below is two screenshots of the grid alignment of the home page. For this website, I used a 2120 grid to allow for flexibility in the placement of different elements while still providing a structured design. Some of the buttons aligned with the columns rather than the rows as I had to place it in the center along with the text. However, this did not dirupt the structure and overall organization of the website design.
 
 ![gridtest](gridtest.png)
+---
+## Impression Test
