@@ -55,7 +55,7 @@ Out of the two light mode color schemes, I liked the first one as it gave the we
 ![ColorSchemes](COLORVARATIONS.png)
 
 ### Grid Test
-Below is two screenshots of the grid alignment of the home page. For this website, I used a 2120 grid to allow for flexibility in the placement of different elements while still providing a structured design. Some of the buttons aligned with the columns rather than the rows as I had to place it in the center along with the text. However, this did not dirupt the structure and overall organization of the website design.
+Below is two screenshots of the grid alignment of the home page. For this website, I used a 2120 grid to allow for flexibility in the placement of different elements while still providing a structured design. Some of the buttons aligned with the columns rather than the rows as I had to place it in the center along with the text. However, this did not disrupt the structure and overall organization of the website design.
 
 ![gridtest](gridtest.png)
 
