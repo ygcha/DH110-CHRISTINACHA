@@ -80,7 +80,7 @@ Based on this test, I noticed that a lot of his preferences and reasonings align
 
 ### 2. Design Wireflow Impression Test: 
 
-After designing the rest of the wireframes and wireflow, I had my participant complete a task where he signs up, creates a profile, and then adds 1 scholarship to his financial aid list. Throughout the process, I encouraged him to focus both on the design and flow of the website.
+After designing the rest of the wireframes and wireflow, I had my participant complete a task. Throughout the process, I encouraged him to focus both on the design and flow of the website.
 > Here is the link to the impression test of the completed design and flow: 
 > - [Impression Test](https://drive.google.com/file/d/1elN1vYBIbxJbOHh7iTZpgoQxGLhkhsZW/view?usp=sharing)
 
