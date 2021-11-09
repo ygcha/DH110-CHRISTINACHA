@@ -13,6 +13,9 @@ After trying various fonts, shapes, and colors, the wireframe below is an exampl
 
 ![ExampleWireframe](wireframeex.png)
 
+Completed Wireframes 
+![completeddesigns](completeddesigns.pngg)
+
 **Here is the link to the Figma pages:**
 - [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=0%3A1) to screen designs.
 - [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=26%3A1646) to digitized wireflow w/ the designs implemeneted to the rest of my wireframes. 
