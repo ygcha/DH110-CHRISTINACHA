@@ -91,6 +91,8 @@ I had my participant go through one task of signing up, creating a profile, filt
 - Felt that the space gaps between the scholarship boxes were too large.
 - Overall, liked the cleanliness of the design.
 
+Based on this feedback, I will possible look for an alternative to the yellow. In addition, I will close the gaps between the boxes. I will be keeping the rest of the fonts/sizes, colors, and shapes. 
+
 ---
 ## Design Summary
 ![designsummary](designsummary.png)
