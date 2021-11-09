@@ -49,3 +49,8 @@ To make sure my colors passed the accessibility check (color contrast), I used t
 Out of the two light mode color schemes, I went with the first one as it gave the website more weight compared to the second color scheme. The dark navy blue as the background contrasted the white colored texts while the yellow gave clear attention to the sign up and log in buttons. 
 
 ![ColorSchemes](COLORVARATIONS.png)
+
+### Grid Test
+Below is two screenshots of the grid alignment of the home page. For this website, I used a 2120 grid to allow for flexibility in the placement of different elements while still providing a structured design. Some of the buttons aligned with the columns rather than the rows as I had to place it in the center along with the text. However, this did not dirupt the structure and overall organization of the website design.
+
+![gridtest1](gridtest1.png) ![gridtest2](gridtest2.png)
