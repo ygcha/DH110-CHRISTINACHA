@@ -63,24 +63,28 @@ Below is two screenshots of the grid alignment of the home page. For this websit
 ## Impression Test
 I split my impression test into two parts. I did the impression tests in-person using my computer and recorded his actions via Zoom. He did not want his face to show so we turned off the camera. 
 
-1. Variations Impression Test: Before completing the final design, I conudcted an impression test of the different font, shapes, and color variations to see which one the user preferred. Using both his and my own opinions, I later designed the rest of the wireframes and wireflow.
+### 1. Variations Impression Test: 
+
+Before completing the final design, I conudcted an impression test of the different font, shapes, and color variations to see which one the user preferred. Using both his and my own opinions, I later designed the rest of the wireframes and wireflow.
 > Here is the link to the impression tests based on 
 > - [typography](https://drive.google.com/file/d/18HEAm9s9iE4oa8bulgMb1soWv5QnpLFY/view?usp=sharing)
 > - [shape](https://drive.google.com/file/d/1E9H-gAuWlWqKLYHSnqpjW4Q5i-xivPnf/view?usp=sharing)
 > - [colors](https://drive.google.com/file/d/18-mTl4DWLhi9an-_lfYljTBj0afYNXPz/view?usp=sharing)
 
-### Summary of Findings
+#### Summary of Findings
 - Typography: When looking at the three options, the participant liked Montserrat out of the three. He explained that although the fonts look similar at first glance, he noticed that the first two fonts lacked a sense of balance espeically in certian parts of the design. In addition, he pointed out that Montserrat's weight and line thickness was more even and easier on the eyes. He felt that it was the most appropriate for a government website.
 - Shape: When looking at just the shapes, he  liked the second shape. However, when he looked at the wireframe as a whole, he preferred the the last shape as it felt more cohesive when having a lot of buttons in a page. He felt that the first shape was too decorative for a government page which I agree with. 
 - Colors: When comparing the two light mode color schemes, he liked the first one the most as the dark navy blue gave more weight to the website and contrasted better with the black font. In addition, he felt that the second color scheme was too childish for a government website. As for the dark theme, he loved how the darker colors contrasted with each other. He stated after that it was easy on his eyes and loved how chic it looked. 
 
 Based on this test, I noticed that a lot of his preferences and reasonings aligned with my own personal opinions as well. Using his feedback, I continued with the Montserrat font family, the third shape, and first light mode (along with the dark mode) for my final design. I will be focusing on the light mode for the completed wireframes and wireflow.
 
-2. Design Wireflow Impression Test: After designing the rest of the wireframes and wireflow, I had my participant complete a task where he signs up, creates a profile, and then adds 1 scholarship to his financial aid list. Throughout the process, I encouraged him to focus both on the design and flow of the website.
+### 2. Design Wireflow Impression Test: 
+
+After designing the rest of the wireframes and wireflow, I had my participant complete a task where he signs up, creates a profile, and then adds 1 scholarship to his financial aid list. Throughout the process, I encouraged him to focus both on the design and flow of the website.
 > Here is the link to the impression test of the completed design and flow: 
 > - [Impression Test](https://drive.google.com/file/d/1elN1vYBIbxJbOHh7iTZpgoQxGLhkhsZW/view?usp=sharing)
 
-### Summary of Findings
+#### Summary of Findings
 I had my participant go through one task of signing up, creating a profile, filtering scholarships based on highest award amount, and adding a scholarship to his financial aid list. I told him to focus on both the flow and most importantly the design of the different pages. Below are some interesting points he made:
 - Did not like the green and yellow together in the home page.
 - The green tab color matched well with the navy and light blue background when there is no trace of yellow.
