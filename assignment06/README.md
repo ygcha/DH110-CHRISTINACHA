@@ -56,3 +56,14 @@ Below is two screenshots of the grid alignment of the home page. For this websit
 ![gridtest](gridtest.png)
 ---
 ## Impression Test
+I split my impression test into two parts. I did the impression tests in-person using my computer and recorded his actions via Zoom. He did not want his face to show so we turned off the camera. 
+
+1. Variations Impression Test: Before completing the final design, I conudcted an impression test of the different font, shapes, and color variations to see which one the user preferred. Using both his and my own opinions, I later designed the rest of the wireframes and wireflow.
+> Here is the link to the impression tests based on 
+> - [typography](https://drive.google.com/file/d/18HEAm9s9iE4oa8bulgMb1soWv5QnpLFY/view?usp=sharing)
+> - [shape](https://drive.google.com/file/d/1E9H-gAuWlWqKLYHSnqpjW4Q5i-xivPnf/view?usp=sharing)
+> - [colors](https://drive.google.com/file/d/18-mTl4DWLhi9an-_lfYljTBj0afYNXPz/view?usp=sharing)
+
+2. Design Wireflow Impression Test: After designing the rest of the wireframes and wireflow, I had my participant complete a task where he signs up, creates a profile, and then adds 1 scholarship to his financial aid list. Throughout the process, I encouraged him to focus both on the design and flow of the website.
+> Here is the link to the impression test of the completed design and flow: 
+> - [Impression Test](https://drive.google.com/file/d/1elN1vYBIbxJbOHh7iTZpgoQxGLhkhsZW/view?usp=sharing)
