@@ -13,13 +13,14 @@ After trying various fonts, shapes, and colors, the wireframe below is an exampl
 
 ![ExampleWireframe](wireframeex.png)
 
-Completed Wireframes 
+## Completed Wireframes
+
 ![Completed Designs](completeddesigns.png)
 
 **Here is the link to the Figma pages:**
-- [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=0%3A1) to screen designs.
+- [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=0%3A1) to screen designs with saved graphic design system information (fonts/sizes, colors, and grid layouts).
 - [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=26%3A1646) to digitized wireflow w/ the designs implemeneted to the rest of my wireframes. 
-- [LINK](https://www.figma.com/proto/x0t5CUcYqjtNwrYgzNVRU7/Assignment06?page-id=0%3A1&node-id=24%3A1524&viewport=241%2C48%2C0.26&scaling=min-zoom) to the prototype with the designs. 
+- [LINK](https://www.figma.com/proto/x0t5CUcYqjtNwrYgzNVRU7/Assignment06?page-id=26%3A1646&node-id=26%3A1647&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=26%3A1647) to the prototype with the designs. 
 ---
 ## Screen Design
 ### Typography
@@ -80,7 +81,7 @@ Based on this test, I noticed that a lot of his preferences and reasonings align
 > - [Impression Test](https://drive.google.com/file/d/1elN1vYBIbxJbOHh7iTZpgoQxGLhkhsZW/view?usp=sharing)
 
 ### Summary of Findings
-I had my participant go through one task of signing up, creating a profile, and adding a scholarship to his financial aid list. I told him to focus on both the flow and most importantly the design of the different pages. Below are some interesting points he made:
+I had my participant go through one task of signing up, creating a profile, filtering scholarships based on highest award amount, and adding a scholarship to his financial aid list. I told him to focus on both the flow and most importantly the design of the different pages. Below are some interesting points he made:
 - Did not like the green and yellow together in the home page.
 - The green tab color matched well with the navy and light blue background when there is no trace of yellow.
 - Felt that the space gaps between the scholarship boxes were too large.
