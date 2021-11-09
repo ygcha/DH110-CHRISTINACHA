@@ -19,7 +19,7 @@ After trying various fonts, shapes, and colors, the wireframe below is an exampl
 
 ### **Here is the link to the Figma pages:**
 - [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=0%3A1) to screen designs with saved graphic design system information (fonts/sizes, colors, and grid layouts).
-- [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=26%3A1646) to digitized wireflow w/ the designs implemeneted to the rest of my wireframes. 
+- [LINK](https://www.figma.com/file/x0t5CUcYqjtNwrYgzNVRU7/?node-id=26%3A1646) to digitized wireflow w/ the designs implemented to the rest of my wireframes. 
 - [LINK](https://www.figma.com/proto/x0t5CUcYqjtNwrYgzNVRU7/Assignment06?page-id=26%3A1646&node-id=26%3A1647&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=26%3A1647) to the prototype with the designs. 
 ---
 ## Screen Design
