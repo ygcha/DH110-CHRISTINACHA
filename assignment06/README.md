@@ -42,6 +42,9 @@ Out of the three shape variations, I went with the third shape as it suited diff
 ### Color Scheme
 Last but not least, I tested out a total of three color scheme variations: two light mode color schemes, and one dark mode color scheme. When curating the first color scheme for the website, I utlized almost every color of the logo's color scheme to reflect the branding on OSFA. In addition, I felt the colors of the logo suited a government website. For the second color scheme, I tried different colors within the same hue of the first color scheme to test out two different aesthetics. As for the dark mode color scheme, I utilized the #121212 color as my main background theme as recommended by [material.io](https://material.io/design/color/dark-theme.html#states) and used other dark gray colors for the rest of the components. In order to make certain elements, like the buttons, pop, I used a similar tone of blue from the light mode while making sure it was not too bright or saturated for a dark mode website.
 
+#### Accessibility Check
+To make sure my colors passed the accessibility check (color contrast), I used the Stark plug-in on Figma to test all three color schemes. The screenshots of the color contrast check can be seen in this [folder link](https://drive.google.com/drive/folders/1ZdtaMeuAD891QfxIGiLu9Xqv3-dLtgzv?usp=sharing). All of them passed the accessibility WCAG2.0 AA level. 
+
 #### Final Decision
 Out of the two light mode color schemes, I went with the first one as it gave the website more weight compared to the second color scheme. The dark navy blue as the background contrasted the white colored texts while the yellow gave clear attention to the sign up and log in buttons. 
 
