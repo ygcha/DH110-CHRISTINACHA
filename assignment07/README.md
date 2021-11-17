@@ -13,10 +13,10 @@ The purpose of this assignment is to test. sdfsdfadsfasdf.
 1. Create a financial aid profile.
 2. Directly filter out financial aid options (scholarships, grants, loans, etc) based on award amount.
 3. Add financial aid options (scholarships, grants, loans, etc) to your account as a list to keep track of which ones to apply too.
-4. Add collaborater to the financial aid list.
+4. Share the financial aid list to another person via email.
 
 These tasks are based on my two personas: Diana Kim and Sandy Smith.
 
 > Diana Kim: A 17-year-old high school graduate with high technical literacy entering college who needs to efficiently find scholarships and grants that match her financial needs to attend her dream university: Harvard University. She wants to make sure she can keep track of which **scholarships and grants **she needs to apply to based on **the award amount **through her account.
 
-> Sandy Smith: A 50-year-old homestay mom of two sons with low technical literacy and wants to find what type of scholarships and loans her son can apply to without a hassle in between her busy schedule. She wants to make sure her eldest son focuses on school without having to worry about which **grants** he needs to apply to. She wants to easily create a list of applications **her son can access as a collaborater**.
+> Sandy Smith: A 50-year-old homestay mom of two sons with low technical literacy and wants to find what type of scholarships and loans her son can apply to without a hassle in between her busy schedule. She wants to make sure her eldest son focuses on school without having to worry about which **grants** he needs to apply to. She wants to easily create a list of applications **she can share to her son through email**.
