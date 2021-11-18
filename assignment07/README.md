@@ -3,6 +3,7 @@
 ## Description of Project
 I will be redesigning the Massechusetts Office of Student Financial Assistance website for this project. Massachusetts OSFA is one of the offices within the Massachusetts Department of Higher Education that focuses on helping students finance their education, specifically for college. My main goal with this project is to redesign the website so that it easily caters to each individual’s financial needs and situation so that the website can recommend the proper scholarship, grants, loans, and other resources based on the individual’s criteria and need.
 
+
 ## Process
 For this assignment, I used Figma to design and develop the rest of my high fidelity prototype. In addition, I took feedback from Professor Sookie and several classmates. I conducted two cognitive walkthoughs with two participants. With this feedback, I improved the designs and interaction of my prototype.  I made sure that my high fidelity prototype reflected the intention of this project: a government website that both parents and students can easily use to find and track information about financial aid in Massechusetts.
 
