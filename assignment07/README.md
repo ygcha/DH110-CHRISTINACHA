@@ -63,9 +63,11 @@ The cognitive walkthough gave me a clear idea of what elements I needed to add. 
 Based on the cognitive walkthough, Karlina's point on adding a progress indicator for the financial aid adding was interesting. So I implemented that into my design. In addition, during class, one of my classmates mentioned that the yellow section in the home page from my first design was slightly confusing so I decided to reduce that into one box with one button as well. Last but not least, based on Professor Sookie's feedback, I changed the colors from dark mode to light mode where I implemented more dark text in front of a lighter background. 
 
 ### Change 1: 
+I implemented a progress tracker by including the words _Successfully Added_ to show the user that what they added is now in their list.
 ![change1](CHANGE_1.png)
 
 ### Change 2 & 3: 
+I changed the color of the dark mode colors to light mode colors to accurately reflect a light mode website. In addition, I changed from having both Sign Up and Log In to just having Sign Up to make that section clear. 
 ![change2](CHANGE_2.png)
 
 ![change3](CHANGE_3.png)
