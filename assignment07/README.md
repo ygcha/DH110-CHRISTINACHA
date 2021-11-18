@@ -48,7 +48,7 @@ Log-in, add 1 grant to the list based on award amount, and share the list via em
 ![task2wireflow](wireflow_task2.png)
 
 ## Cognitive Walkthrough
-[Link](https://drive.google.com/file/d/1oVHaI5hgrsCfUm65sewfxODjMSF4pSFr/view?usp=sharing) to folder with screen and audio recording of cognitive walkthrough. Special thanks to Karlina Ho and Michael Canabarro for helping me with the walkthrough.
+[Link](https://drive.google.com/drive/folders/1yWYDA-k0ywYNDGiFJpe2MbqDCOD78nWl?usp=sharing) to folder with screen and audio recording of cognitive walkthrough. Special thanks to Karlina Ho and Michael Canabarro for helping me with the walkthrough.
 
 I conducted two cognitive walkthroughs with two classmates. In addition, also considered feedback from the cognitive walkthough we did during class.
 
