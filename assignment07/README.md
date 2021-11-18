@@ -30,7 +30,9 @@ These tasks are based on my two personas: Diana Kim and Sandy Smith.
 
 
 ## Interactive Prototype 
-[Link](https://www.figma.com/proto/hfFBBF6VnWhNXI6mfQEOqD/Assignment07?page-id=26%3A1646&node-id=127%3A3744&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=127%3A3744) to the full prototype that supports both tasks
+- [Link](https://www.figma.com/proto/hfFBBF6VnWhNXI6mfQEOqD/Assignment07?page-id=26%3A1646&node-id=127%3A3744&viewport=241%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=127%3A3744) to the full prototype that supports both tasks
+
+- [Link](https://www.figma.com/file/hfFBBF6VnWhNXI6mfQEOqD/Assignment07?node-id=26%3A1646) to the Figma file of the high fidelity prototype.
 
 ## Wireflow for Tasks
 
