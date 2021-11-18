@@ -11,8 +11,8 @@ The purpose of this assignment is to not only implement the design to the rest o
 
 ## List of Tasks Supported by the Prototype
 
-Task 1 - Create new profile, add 2 scholarships and 1 grant to the list based on award amount. 
-Task 2 - Log-in, add 1 grant to the list based on award amount, and share the list via email. 
+- Task 1 - Create new profile, add 2 scholarships and 1 grant to the list based on award amount. 
+- Task 2 - Log-in, add 1 grant to the list based on award amount, and share the list via email. 
 
 Specific tasks supported by the prototype:
 > 1. Create a financial aid profile by signing up. 
