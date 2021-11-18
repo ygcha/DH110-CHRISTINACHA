@@ -64,10 +64,12 @@ Based on the cognitive walkthough, Karlina's point on adding a progress indicato
 
 ### Change 1: 
 I implemented a progress tracker by including the words _Successfully Added_ to show the user that what they added is now in their list.
+
 ![change1](CHANGE_1.png)
 
 ### Change 2 & 3: 
 I changed the color of the dark mode colors to light mode colors to accurately reflect a light mode website. In addition, I changed from having both Sign Up and Log In to just having Sign Up to make that section clear. 
+
 ![change2](CHANGE_2.png)
 
 ![change3](CHANGE_3.png)
