@@ -29,9 +29,9 @@ Read more about the [Persona+Scenario](https://github.com/ygcha/DH110-CHRISTINAC
 
 ## Wireframing and Graphic Design
 Based on my personas’ perspective, I wanted to incorporate four different features into the website. This includes:
-Directly filter out financial aid options (scholarships, grants, loans, etc) based on award amount and due date.
-Create a financial aid profile.
-Add financial aid options (scholarships, grants, loans, etc) to your account as a list to keep track of which ones to apply too.
-Share financial aid lists with others via email.
+- Directly filter out financial aid options (scholarships, grants, loans, etc) based on award amount and due date.
+- Create a financial aid profile.
+- Add financial aid options (scholarships, grants, loans, etc) to your account as a list to keep track of which ones to apply too.
+- Share financial aid lists with others via email.
 
 With these features in mind, I incorporated it into the scenarios I created when developing the wireframe and screen designs. I wanted the website to be simple yet sophisticated so it fits the government aesthetic. In addition, I wanted to make sure the user interface was intuitive to use. 
