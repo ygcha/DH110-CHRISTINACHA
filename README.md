@@ -1,5 +1,7 @@
 # Financial Aid Resource Access in Massachusetts
-Christina Cha, DH110 Fall 2021
+## Christina Cha, DH110 Fall 2021
+
+---
 
 ## Introduction
 This project is about redesigning the Massachusetts' Office of Student Financial Assistance website in order to make it easier for both students and parents to find and organize financial aid resources in one website. Access to higher education has always been a topic of conversation amongst high school and college students, especially high school seniors as they apply to their dream colleges and universities. The topic of accessibility for these institutions is a crucial conversation to have especially with many underrepresented groups lacking resources or opportunities to get into higher education. Therefore, I wanted to design a website that can easily cater to both students and parents by making sure it is accessible for anyone regardless of their technical experience. Features like the “Add to My List” button and “Share List” function allows anyone to easily add and save specific financial aid resources and share it with their children or parents.
