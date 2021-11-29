@@ -72,7 +72,7 @@ Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINAC
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fnode-id%3D2%253A18" allowfullscreen></iframe>
 
 ## Evaluation and Revision History
-After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design which can be seen [here](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [here](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07).
+After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design which can be seen [here](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07).
 
 After the revision, I conducted one more usability test which can be found below.
 
