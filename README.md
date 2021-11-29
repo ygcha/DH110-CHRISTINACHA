@@ -39,8 +39,8 @@ With these features in mind, I incorporated it into the scenarios I created when
 ## Low-Fidelity Prototype
 I created a low-fidelity prototype as it allowed me to test the different features and layouts and get feedback to see what problems I can fix and improve on during the early stages of the project. In addition, it helped me check to see if the user was able to understand the flow of the website without any issues. 
 Based on my user research, I created two tasks for the user to complete and test. 
-Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
-Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. (Begins with clicking sign up on home page)
+- Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
+- Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. (Begins with clicking sign up on home page)
 [insert image here]
 
 Read more about the [Low-Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05). 
