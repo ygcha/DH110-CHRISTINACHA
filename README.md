@@ -72,7 +72,7 @@ Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINAC
 
 **Check out the prototype here:**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fpage-id%3D2%253A18%26node-id%3D3%253A50%26viewport%3D241%252C48%252C0.21%26scaling%3Dscale-down%26starting-point-node-id%3D3%253A50" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="947" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fpage-id%3D2%253A18%26node-id%3D3%253A50%26viewport%3D241%252C48%252C0.21%26scaling%3Dscale-down%26starting-point-node-id%3D3%253A50" allowfullscreen></iframe>
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
