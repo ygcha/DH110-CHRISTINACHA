@@ -51,7 +51,7 @@ After developing and testing the low-fidelity prototype, I created a high-fideli
 
 Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [High Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07). 
 
-https://www.figma.com/proto/0E415fxmDy7FQdg9eiffZq/Untitled?page-id=2%3A18&node-id=3%3A50&viewport=241%2C48%2C0.21&scaling=min-zoom&starting-point-node-id=3%3A50
+https://www.figma.com/file/0E415fxmDy7FQdg9eiffZq/PITCH?node-id=2%3A18
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
