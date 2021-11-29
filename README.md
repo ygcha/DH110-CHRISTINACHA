@@ -27,7 +27,7 @@ The main purpose of UX storytelling is to see your product in another perspectiv
 Read more about the [Persona+Scenario](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment04). 
 [insert pic here]
 
-## Wireframe and graphic design element variation [assignment05 + part of 06]
+## Wireframing and Graphic Design
 Based on my personas’ perspective, I wanted to incorporate four different features into the website. This includes:
 Directly filter out financial aid options (scholarships, grants, loans, etc) based on award amount and due date.
 Create a financial aid profile.
