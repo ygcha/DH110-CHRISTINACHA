@@ -71,19 +71,20 @@ Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINAC
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fnode-id%3D2%253A18" allowfullscreen></iframe>
 
+## Evaluation and Revision History
+After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design which can be seen [here](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [here](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07).
+
+After the revision, I conducted one more usability test which can be found below.
+
+Participant 1
+
+Findings from these usability testings:
+
 ---
 ## **Final Prototype**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="947" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fpage-id%3D2%253A18%26node-id%3D3%253A50%26viewport%3D241%252C48%252C0.21%26scaling%3Dscale-down%26starting-point-node-id%3D3%253A50" allowfullscreen></iframe>
 
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-
-## Pitch Video
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 
 ## Conclusion: what you learned throughout the process
