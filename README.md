@@ -64,6 +64,10 @@ After developing and testing the low-fidelity prototype, I created a high-fideli
 
 Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [High Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07). 
 
+<p align="center">
+  <img src="./wireflow5.png">
+</p>
+
 **Check out the high fidelity prototype here:**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fnode-id%3D2%253A18" allowfullscreen></iframe>
