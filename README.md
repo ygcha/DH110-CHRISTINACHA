@@ -16,6 +16,10 @@ In addition, I conducted usability testing specifically for the Massachusetts’
 
 Read more about the [Heuristic Evaluation](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment01) and [Pilot Usability Test](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment02). 
 
+<p align="center">
+  <img src="./Frame 1.png">
+</p>
+
 ## User Research
 I completed a contextual inquiry through two methods: observing the participant and conducting an interview. For the participatory observation, I asked the participant to complete two activities. In the first task, I asked the participant to look up a website that they most commonly used in the past and are the most comfortable with to find more information on financial aid. In the second task, I asked the participant to use the website to find more information about the specific type of financial aid they needed more information on. The participant was able to give me insightful thoughts and opinions such as giving examples of other financial aid websites he found easy to use including FAFSA and my.ucla.edu. In addition, he also explained why he found those websites easy to use  which helped him find information quicker and easier compared to the Massachusetts OSFA website. Overall, this contextual inquiry gave me a closer look at which websites I should reference when redesigning the website for OSFA.  
 
@@ -25,7 +29,10 @@ Read more about the [Contextual Inquiry](https://github.com/ygcha/DH110-CHRISTIN
 The main purpose of UX storytelling is to see your product in another perspective, specifically the user's perspective. By finding more pain points, the more we know what parts of the product need improvement and fixing. This is so that we have a better understanding of the user's journey and need to help you design a better product that is catered for the user. In order to understand my product from another point of view, I created two personas and scenarios that reflected the target audience for the website. The first persona represents your typical college freshman while the second persona represents a parent of a high school senior or college student. 
 
 Read more about the [Persona+Scenario](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment04). 
-[insert pic here]
+
+<p align="center">
+  <img src="./Frame 2.png">
+</p>
 
 ## Wireframe and Graphic Design
 Based on my personas’ perspective, I wanted to incorporate four different features into the website. This includes:
@@ -35,6 +42,12 @@ Based on my personas’ perspective, I wanted to incorporate four different feat
 - Share financial aid lists with others via email.
 
 With these features in mind, I incorporated it into the scenarios I created when developing the wireframe and screen designs. I wanted the website to be simple yet sophisticated so it fits the government aesthetic. In addition, I wanted to make sure the user interface was intuitive to use. 
+
+Read more about the [Wireframe](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05) and [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06)
+
+<p align="center">
+  <img src="./image 7.png">
+</p>
 
 ## Low-Fidelity Prototype
 I created a low-fidelity prototype as it allowed me to test the different features and layouts and get feedback to see what problems I can fix and improve on during the early stages of the project. In addition, it helped me check to see if the user was able to understand the flow of the website without any issues. 
