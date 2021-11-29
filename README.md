@@ -65,9 +65,11 @@ After developing and testing the low-fidelity prototype, I created a high-fideli
 Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [High Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07). 
 
 Check out the high fidelity prototype here:
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fnode-id%3D2%253A18" allowfullscreen></iframe>
 
 Check out the prototype here:
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fpage-id%3D2%253A18%26node-id%3D3%253A50%26viewport%3D241%252C48%252C0.21%26scaling%3Dscale-down%26starting-point-node-id%3D3%253A50" allowfullscreen></iframe>
 
 ## Optional evaluation and revision history 
