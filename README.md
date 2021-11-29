@@ -27,7 +27,7 @@ The main purpose of UX storytelling is to see your product in another perspectiv
 Read more about the [Persona+Scenario](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment04). 
 [insert pic here]
 
-## Wireframing and Graphic Design
+## Wireframe and Graphic Design
 Based on my personas’ perspective, I wanted to incorporate four different features into the website. This includes:
 - Directly filter out financial aid options (scholarships, grants, loans, etc) based on award amount and due date.
 - Create a financial aid profile.
@@ -35,3 +35,20 @@ Based on my personas’ perspective, I wanted to incorporate four different feat
 - Share financial aid lists with others via email.
 
 With these features in mind, I incorporated it into the scenarios I created when developing the wireframe and screen designs. I wanted the website to be simple yet sophisticated so it fits the government aesthetic. In addition, I wanted to make sure the user interface was intuitive to use. 
+
+## Low-Fidelity Prototype
+I created a low-fidelity prototype as it allowed me to test the different features and layouts and get feedback to see what problems I can fix and improve on during the early stages of the project. In addition, it helped me check to see if the user was able to understand the flow of the website without any issues. 
+Based on my user research, I created two tasks for the user to complete and test. 
+Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
+Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. (Begins with clicking sign up on home page)
+[insert image here]
+
+Read more about the [Low-Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05). 
+
+
+## High-Fidelity Prototype 
+After developing and testing the low-fidelity prototype, I created a high-fidelity prototype of my website using FIgma. When creating this prototype, I wanted to focus on creating a concrete visualization of what the final version of the website would look like and test it with various participants.  I first designed how the website would look visually by implementing various UI components, graphic elements, and different features. Then I created multiple versions and variations of the color schemes (light-mode and dark-mode), text and font family, and shapes. I then tested these variations with different participants to see which visual elements worked the best. I continued to revise and test my high-fidelity prototype before coming up with the final prototype below.
+
+Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [High Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07). 
+[Embed the Figma here]
+
