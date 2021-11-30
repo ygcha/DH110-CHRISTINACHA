@@ -43,7 +43,7 @@ Based on my personas’ perspective, I wanted to incorporate four different feat
 
 With these features in mind, I incorporated it into the scenarios I created when developing the wireframe and screen designs. I wanted the website to be simple yet sophisticated so it fits the government aesthetic. In addition, I wanted to make sure the user interface was intuitive to use. 
 
-Read more about the [Wireframe](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05) and [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06)
+Read more about the [Wireframe](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05) and [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06).
 
 <p align="center">
   <img src="./image 7.png">
