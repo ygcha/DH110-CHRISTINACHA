@@ -83,12 +83,16 @@ After the revision, I conducted two more usability test which can be found below
 
 Both participants were able to successfully complete both tasks without any issues. They did not run into any difficulty and did not any help from me in order to navigate through the website. After using the website, they described the website as professional, trustworthy, and simple making it easier to navigate through the website. They did not have any comments in terms of what to fix or improve for the website. 
 
----
 ## **Final Prototype**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="947" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0E415fxmDy7FQdg9eiffZq%2FPITCH%3Fpage-id%3D2%253A18%26node-id%3D3%253A50%26viewport%3D241%252C48%252C0.21%26scaling%3Dscale-down%26starting-point-node-id%3D3%253A50" allowfullscreen></iframe>
 
+## Pitch
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/PkfQTtbbrac" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+ 
 
 ## Conclusion
 Overall, the entire design process in developing this website prototype went smoothly as I was able to break down the process into different steps. Prior to this experience, I only had experience with designing just the UI without any UX research. But this project helped me understand the foundational steps to UX research and how to apply the findings to the design. I was able to improve a lot in both design, research, and usability testing throughout the quarter.
