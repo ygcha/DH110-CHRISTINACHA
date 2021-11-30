@@ -54,7 +54,6 @@ I created a low-fidelity prototype as it allowed me to test the different featur
 Based on my user research, I created two tasks for the user to complete and test. 
 - Task 1: Create new profile, add 2 scholarships and 1 grant to the list based on highest award amount, and check financial aid list.
 - Task 2: Log-in, add 1 grant to the list based on highest award amount, and share the list via email.
-[insert image here]
 
 Read more about the [Low-Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05). 
 
@@ -63,7 +62,7 @@ Read more about the [Low-Fidelity Prototype](https://github.com/ygcha/DH110-CHRI
 </p>
 
 ## High-Fidelity Prototype 
-After developing and testing the low-fidelity prototype, I created a high-fidelity prototype of my website using FIgma. When creating this prototype, I wanted to focus on creating a concrete visualization of what the final version of the website would look like and test it with various participants.  I first designed how the website would look visually by implementing various UI components, graphic elements, and different features. Then I created multiple versions and variations of the color schemes (light-mode and dark-mode), text and font family, and shapes. I then tested these variations with different participants to see which visual elements worked the best. I continued to revise and test my high-fidelity prototype before coming up with the final prototype below.
+After developing and testing the low-fidelity prototype, I created a high-fidelity prototype of my website using Figma. When creating this prototype, I wanted to focus on creating a concrete visualization of what the final version of the website would look like and test it with various participants.  I first designed how the website would look visually by implementing various UI components, graphic elements, and different features. Then I created multiple versions and variations of the color schemes (light-mode and dark-mode), text and font family, and shapes. I then tested these variations with different participants to see which visual elements worked the best. I continued to revise and test my high-fidelity prototype before coming up with the final prototype below.
 
 Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment06) and [High Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07). 
 
