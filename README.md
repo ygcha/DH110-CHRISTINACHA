@@ -81,6 +81,7 @@ After the revision, I conducted two more usability test which can be found below
 [Participant 2](https://drive.google.com/file/d/1IVAK4rbHzkdcHmUJ5YqgPeTTryueENs8/view?usp=sharing) 
 
 **Findings from these usability testings:**
+
 Both participants were able to successfully complete both tasks without any issues. They did not run into any difficulty and did not any help from me in order to navigate through the website. After using the website, they described the website as professional, trustworthy, and simple making it easier to navigate through the website. They did not have any comments in terms of what to fix or improve for the website. 
 
 ---
