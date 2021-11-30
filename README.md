@@ -89,9 +89,7 @@ Both participants were able to successfully complete both tasks without any issu
 
 ## Pitch
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/PkfQTtbbrac" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="1520" height="614" src="https://www.youtube.com/embed/PkfQTtbbrac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 ## Conclusion
