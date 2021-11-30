@@ -90,12 +90,12 @@ Both participants were able to successfully complete both tasks without any issu
 ## Pitch
 
 <iframe 
-        width="1520" 
-        height="614" 
+        width="760" 
+        height="307" 
         src="https://www.youtube.com/embed/PkfQTtbbrac" 
         title="YouTube video player" 
         frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 ## Conclusion
