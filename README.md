@@ -52,8 +52,8 @@ Read more about the [Wireframe](https://github.com/ygcha/DH110-CHRISTINACHA/tree
 ## Low-Fidelity Prototype
 I created a low-fidelity prototype as it allowed me to test the different features and layouts and get feedback to see what problems I can fix and improve on during the early stages of the project. In addition, it helped me check to see if the user was able to understand the flow of the website without any issues. 
 Based on my user research, I created two tasks for the user to complete and test. 
-- Task 1: Filter out scholarships based on award amount and add to your list (Begins with clicking tab on home page)
-- Task 2: Create profile, add financial aid options to a list on your account, and share list with another user via email. (Begins with clicking sign up on home page)
+- Task 1: Create new profile, add 2 scholarships and 1 grant to the list based on highest award amount, and check financial aid list.
+- Task 2: Log-in, add 1 grant to the list based on highest award amount, and share the list via email.
 [insert image here]
 
 Read more about the [Low-Fidelity Prototype](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment05). 
@@ -74,11 +74,14 @@ Read more about the [Interface Design](https://github.com/ygcha/DH110-CHRISTINAC
 ## Evaluation and Revision History
 After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design which can be seen [here](https://github.com/ygcha/DH110-CHRISTINACHA/tree/master/assignment07).
 
-After the revision, I conducted one more usability test which can be found below.
+After the revision, I conducted two more usability test which can be found below.
 
-Participant 1
+[Participant 1](https://drive.google.com/file/d/1MQFIJBpDyTRK3bRqJGAMlXD8tvteJ7e4/view?usp=sharing)
 
-Findings from these usability testings:
+[Participant 2](https://drive.google.com/file/d/1IVAK4rbHzkdcHmUJ5YqgPeTTryueENs8/view?usp=sharing) 
+
+**Findings from these usability testings:**
+Both participants were able to successfully complete both tasks without any issues. They did not run into any difficulty and did not any help from me in order to navigate through the website. After using the website, they described the website as professional, trustworthy, and simple making it easier to navigate through the website. They did not have any comments in terms of what to fix or improve for the website. 
 
 ---
 ## **Final Prototype**
@@ -87,6 +90,12 @@ Findings from these usability testings:
 
 
 
-## Conclusion: what you learned throughout the process
+## Conclusion
+Overall, the entire design process in developing this website prototype went smoothly as I was able to break down the process into different steps. Prior to this experience, I only had experience with designing just the UI without any UX research. But this project helped me understand the foundational steps to UX research and how to apply the findings to the design. I was able to improve a lot in both design, research, and usability testing throughout the quarter.
+
+In addition, I was able to utilize Figma to its fullest extent by learning how to prototype, create components, test the color contrast, and much more. As someone interested in pursuing UX research and UX design, this project has helped me gain more experience with Figma.
+
+Last but not least, I had the opportunity to actively revise my designs based on the usability testing and the participants’ feedback. Because of this, I was able to improve my design by a lot compared to my very first draft. I will continue to conduct UX research with various participants to make sure I have a clear understanding of what I am designing and how users interact with my products. 
+
 
 
